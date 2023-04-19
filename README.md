@@ -1,6 +1,6 @@
 # Hotel ERP
 
-![https://github.com/adamsanchez-dev](https://github.com/AlexVallTuru/HotelERP-SpringBoot/blob/master/readme_images/alexhotelErp.jpg)
+![https://github.com/adamsanchez-dev](https://github.com/adamsanchez-dev/HotelERP-SpringBoot/blob/master/readme_images/hotelErp.jpg)
 
 Estoy encantado de presentarle nuestro sistema de gestión empresarial (ERP) especialmente diseñado para hoteles. Nuestro software ofrece una solución completa y personalizable para ayudar a administrar y optimizar todas las operaciones de su hotel. Este sistema ERP dispone de un sistema de seguridad de usuarios que limita el acceso de los trabajadores en función de sus permisos y roles. Dependiendo del trabajo que desempeñen, los usuarios pueden acceder a ciertas áreas y recursos, mientras que otros estarán restringidos.
 
