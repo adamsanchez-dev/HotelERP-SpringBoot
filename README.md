@@ -7,6 +7,6 @@ I am delighted to introduce you to our business management system (ERP) speciall
 ## Video Hotel ERP
 [![HotelErpVideo](https://github.com/adamsanchez-dev/HotelERP-SpringBoot/blob/master/readme_images/videoHotelErp.jpg)](https://www.youtube.com/watch?v=wy2oUR686r0&ab_channel=AlejandroGonz%C3%A1lezEspejo)
 
-## Memoria del proyecto
+## Documentation
 
 [![Doc](https://img.shields.io/badge/DOC-2496ED?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=101010)](https://docs.google.com/document/d/1bUDZDz2CETTRdBgvvsMG7kdFFDxuPzInAPW-Gsu5ra4/edit?usp=sharing)
